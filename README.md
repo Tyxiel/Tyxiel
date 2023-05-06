@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 👤 Hello, im #%$&#$ nice to meet ya
+- 🌱 I’m currently learning Python
 <!--
 **Tyxiel/Tyxiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
