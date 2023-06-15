@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi
 
-- 👤 Hello, im #%$&#$ nice to meet ya
-- 🌱 I’m currently learning Python
+- Hello
 
 <div align="center">
   <a href="https://github.com/Tyxiel">
