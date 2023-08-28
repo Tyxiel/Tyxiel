@@ -1,4 +1,5 @@
-### - Hello
+  ### - Hello, i'm Tyxiel
+  [![Discord Presence](https://lanyard.cnrad.dev/api/627305881738149911)](https://discord.com/users/1117850429972291694)
 
 <div align="center">
   <a href="https://github.com/Tyxiel">
