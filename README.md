@@ -34,7 +34,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 * **Ferramentas:** Heflo
 * **Idiomas:**
-  
+
+    ![Português - Nativo](https://img.shields.io/badge/Portugu%C3%AAs-Nativo-lightgrey?style=for-the-badge&logo=globe&logoColor=white)
     ![Inglês - C1](https://img.shields.io/badge/Ingl%C3%AAs-C1-blue?style=for-the-badge&logo=globe&logoColor=white)
     ![Espanhol - B1](https://img.shields.io/badge/Espanhol-B1-green?style=for-the-badge&logo=globe&logoColor=white)
 
