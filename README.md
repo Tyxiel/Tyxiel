@@ -41,9 +41,11 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 ## Projetos
 
-Você pode explorar meu trabalho e projetos mais recentes em meu portfólio online:
+Você pode explorar meu trabalho e projetos mais recentes em meu portfólio online ou em meus repositórios do GitHub:
 
 ➡️ **Visite meu Portfólio:** [https://tyxiel.github.io/Portifolio/](https://tyxiel.github.io/Portifolio/)
+
+🗃️ **Veja meus Repositórios:** [Repositórios](https://github.com/Tyxiel?tab=repositories)
 
 ## Conecte-se Comigo
 
