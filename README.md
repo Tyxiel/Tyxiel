@@ -33,7 +33,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 ## Outras Habilidades
 
 * **Ferramentas:** Heflo
-* **Idiomas:** Português Nativo, Inglês Avançado & Espanhol Intermediário.
+* **Idiomas:**
+    ![Inglês - C1](https://img.shields.io/badge/Ingl%C3%AAs-C1-blue?style=for-the-badge&logo=globe&logoColor=white)
+    ![Espanhol - B1](https://img.shields.io/badge/Espanhol-B1-green?style=for-the-badge&logo=globe&logoColor=white)
 
 ## Projetos
 
