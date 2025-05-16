@@ -29,7 +29,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 ![Pacote Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-000000?style=for-the-badge&logo=tinkercad&logoColor=00B0F0)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ## Outras Habilidades
+![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+## Outras Habilidades
 
 * **Ferramentas:** Heflo
 * **Idiomas:** Português Nativo, Inglês Avançado & Espanhol Intermediário.
