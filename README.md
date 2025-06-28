@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Samuel Campos
+# Olá! 👋 Eu sou Tyxiel
 
 Sou um **Desenvolvedor Front-end & Back-end** apaixonado por criar soluções eficientes e inovadoras. Tenho interesse em todo o ciclo de desenvolvimento web e de software, desde a concepção da interface até a implementação do back-end e banco de dados.
 
