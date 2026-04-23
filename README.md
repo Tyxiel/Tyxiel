@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Samuel%20Campos&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Systems%20Development%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Samuel%20Campos&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Tyxiel">
