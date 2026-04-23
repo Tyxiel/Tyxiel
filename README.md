@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Samuel%20Campos&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Systems%20Development%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=It's%20better%20to%20get%20lost%20in%20the%20passion%20than%20to%20lose%20the%20passion" alt="Typing introduction" />
-</p>
-
-<p align="center">
   <a href="https://komarev.com/ghpvc/?username=Tyxiel">
     <img src="https://komarev.com/ghpvc/?username=Tyxiel&label=Profile%20views&color=00FFFF&style=flat-square" alt="Tyxiel's profile views" />
   </a>
