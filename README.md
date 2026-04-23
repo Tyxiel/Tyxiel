@@ -95,8 +95,12 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/tyxiel"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Samuel Campos's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:samuelsantos@duck.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Samuel Campos's Email"/></a>
+  <a href="https://linkedin.com/in/tyxiel">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:samuelsantos@duck.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
 </p>
 
 <picture>
